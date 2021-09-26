@@ -1027,7 +1027,7 @@ ul.social-buttons li a:active {
         line-height: 60px
     }
     #portfolio .portfolio-item {
-        border: 2px solid #f4f4f4;
+        border: 1px solid #f4f4f4;
         margin: 0 0 30px;
         padding: 0
     }
